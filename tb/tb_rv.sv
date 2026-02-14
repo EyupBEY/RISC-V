@@ -1,4 +1,4 @@
-`include "../pkg/riscv_pkg.sv"
+`include "../rtl/pkg/riscv_pkg.sv"
 
 module tb_rv
 import riscv_pkg::*;
